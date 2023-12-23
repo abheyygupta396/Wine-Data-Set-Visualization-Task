@@ -1,4 +1,4 @@
-# manufac-react-assignment
+# react-assignment
 
 A project to calculate some statistical measures of the Wine Data Set... Make sure you have Node.js and npm/yarn installed before getting started.
 
