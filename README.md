@@ -22,7 +22,7 @@ Repo Link: https://github.com/abheyygupta396/Wine-Data-Set-Visualization-Task.gi
 
 ## Check whole code on Branch
 
-Branch: main
+Branch: master
 
 Important Points about application:
 
@@ -52,4 +52,4 @@ To use this code with your own data and properties, follow these steps:
 
 Screenshots attached for application:
 
-![Alt text](./public/application.png?raw=true "Image")
+![image](https://drive.google.com/file/d/1m0WHlaVPJXoPZX-SWPjEr5YR6sYVikw1/view?usp=sharing)
