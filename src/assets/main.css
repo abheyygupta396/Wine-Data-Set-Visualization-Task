@@ -1,0 +1,30 @@
+.w-600 {
+  width: 600px;
+}
+
+.display-flex {
+  display: flex;
+}
+
+.flex-col {
+  flex-direction: column;
+}
+.flex-row {
+  flex-direction: row;
+}
+
+.row-gap-45 {
+  row-gap: 45px;
+}
+
+.justify-content-center {
+  justify-content: center;
+}
+
+.align-items-center {
+  align-items: center;
+}
+
+.text-decoration-underline{
+    text-decoration: underline;
+}
