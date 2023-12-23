@@ -52,4 +52,4 @@ To use this code with your own data and properties, follow these steps:
 
 Screenshots attached for application:
 
-![image](https://freeimage.host/i/screenshot-2023-12-23-212210.JAmq419)
+![Alt text](./public/application.png?raw=true "Image")
