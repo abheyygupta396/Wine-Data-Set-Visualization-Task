@@ -52,4 +52,4 @@ To use this code with your own data and properties, follow these steps:
 
 Screenshots attached for application:
 
-![image](https://drive.google.com/uc?export=download&id=1m0WHlaVPJXoPZX-SWPjEr5YR6sYVikw1)
+![image](https://drive.google.com/uc?export=download&id=1Ycfm6xIf3rcskHvdjv0owOgxt_nj9EL_)
