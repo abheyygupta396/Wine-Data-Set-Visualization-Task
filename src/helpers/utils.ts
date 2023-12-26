@@ -41,7 +41,9 @@ export const measureDataSet = (
     );
 
     // Extract values for the specified property
-    const propertyValues = classData?.map((wine) => wine[property] as number); // properties will come either of Flavanoid or Gamma
+    const propertyValues = classData?.map(
+      (wine) => Number(wine[property]) as number
+    ); // properties will come either of Flavanoid or Gamma
 
     // Calculate mean
     const mean =
